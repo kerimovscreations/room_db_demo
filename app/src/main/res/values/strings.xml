@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">L6_coroutines EN</string>
+    <string name="user_id_key" translatable="false">USER_ID</string>
+</resources>
